@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rust-relay.starryit.com"];
-pub const RS_PUB_KEY: &str = "Jcigo0XosmfcRevORqj7MNk7NUfZNoJeZgRXwXhowpI=";
+pub const RS_PUB_KEY: &str = "8HdJTHaYiSj9RX7bcMtmi2DEukinq3dittOy3tp0GI8=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
